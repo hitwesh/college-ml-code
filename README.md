@@ -22,4 +22,4 @@ This folder contains three Generative AI course assignments, each with its own c
 3. Run the assignment script(s) listed in that assignment README.
 
 ## Notes
-- Outputs for all assignments are provided in image format as described in each assignment README.
+- Outputs for all assignments are provided in image format as described in each assignment README..
