@@ -8,7 +8,7 @@ Section: C
 Roll No.: 45
 
 ## Overview
-This assignment implements a feed-forward neural network (FFNN) on the MNIST dataset. The output has been provided in image format.
+This assignment implements a feed-forward neural network (FFNN) on the MNIST dataset using PyTorch. The output has been provided in image format.
 
 ## Setup and Run
 1. Create and activate a virtual environment, then install dependencies:
