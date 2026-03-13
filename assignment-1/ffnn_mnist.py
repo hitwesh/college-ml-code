@@ -18,7 +18,6 @@ def get_data_loaders(batch_size: int) -> tuple[DataLoader, DataLoader]:
         train=True,
         download=True,
         transform=transform
-    )
     test_dataset = datasets.MNIST(
         root="./data",
         train=False,
